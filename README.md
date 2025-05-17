@@ -1,4 +1,4 @@
-# Ex-03 C-Execution of Linux-Commands
+# Ex-01-Linux-Commands
 # Name: SONU S
 # Reg No: 212223220107
 ## Aim:
